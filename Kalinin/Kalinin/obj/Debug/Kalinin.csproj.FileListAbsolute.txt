@@ -1,0 +1,8 @@
+Z:\2026-2027\2 курс\22ИС\Калинин\Kalinin\Kalinin\bin\Debug\Kalinin.exe.config
+Z:\2026-2027\2 курс\22ИС\Калинин\Kalinin\Kalinin\bin\Debug\Kalinin.exe
+Z:\2026-2027\2 курс\22ИС\Калинин\Kalinin\Kalinin\bin\Debug\Kalinin.pdb
+Z:\2026-2027\2 курс\22ИС\Калинин\Kalinin\Kalinin\obj\Debug\Kalinin.csproj.AssemblyReference.cache
+Z:\2026-2027\2 курс\22ИС\Калинин\Kalinin\Kalinin\obj\Debug\Kalinin.csproj.SuggestedBindingRedirects.cache
+Z:\2026-2027\2 курс\22ИС\Калинин\Kalinin\Kalinin\obj\Debug\Kalinin.csproj.CoreCompileInputs.cache
+Z:\2026-2027\2 курс\22ИС\Калинин\Kalinin\Kalinin\obj\Debug\Kalinin.exe
+Z:\2026-2027\2 курс\22ИС\Калинин\Kalinin\Kalinin\obj\Debug\Kalinin.pdb
